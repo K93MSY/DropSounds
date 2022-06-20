@@ -1,2 +1,2 @@
-# FIBer
-The rhythm game
+# DropSounds
+### The rhythm game! Don't miss it!
