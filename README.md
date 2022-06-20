@@ -1,2 +1,3 @@
 # DropSounds
-### The rhythm game! Don't miss it!
+
+## The rhythm game! Don't miss it!
